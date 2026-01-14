@@ -1,0 +1,7 @@
+{
+  "name": "Umrah & Hajj Plus - Sacred Journeys",
+  "description": "A premium pilgrimage travel agency application providing spiritual guidance and luxury Umrah/Hajj packages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
